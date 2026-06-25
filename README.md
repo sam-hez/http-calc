@@ -1,8 +1,4 @@
-imple HTTP Calculator
-
-This is a small calculator server made with Python. It uses HTTP requests to add, subtract, multiply, and divide two numbers.
-
-I made this project to practise how a basic HTTP server works in Python. It only uses modules that come with Python, so no extra packages are needed.
+simple HTTP Calculator
 
 ## Author
 
